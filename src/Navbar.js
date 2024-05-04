@@ -5,7 +5,7 @@ export default function Navbar() {
                 Cody Thorntons Portfolio
             </a>
             <ul>
-                <li>
+                <li className="active">
                     <a href="/Portfolio">About me</a>
                 </li>
                 <li>
