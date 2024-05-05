@@ -1,4 +1,6 @@
-export default function Navbar() {
+import React from 'react';
+
+function NavbarReact() {
     return (
         <nav className="nav">
             <a href="/" className="site-banner">
@@ -19,5 +21,7 @@ export default function Navbar() {
                 </li>
             </ul>
         </nav>
-    )
+    );
 }
+
+export default NavbarReact;
