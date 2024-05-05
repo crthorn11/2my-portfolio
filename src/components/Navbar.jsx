@@ -14,8 +14,8 @@ function BasicExample() {
         <Nav.Link href="/aboutme">About me</Nav.Link>
           <Nav.Link href="">Portfolio</Nav.Link>
           <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-            <NavDropdown.Item href="#action/3.1">Contact me</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.2">
+            
+            <NavDropdown.Item href="https://github.com/crthorn11">
               Github
             </NavDropdown.Item>
             <NavDropdown.Item href="https://profile.indeed.com/resume">Indeed</NavDropdown.Item>

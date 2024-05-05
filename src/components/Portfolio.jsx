@@ -5,43 +5,39 @@ function GroupExample() {
   return (
     <CardGroup>
       <Card>
-        <Card.Img variant="top" src="holder.js/100px160" />
+        <Card.Img variant="top" src="src/images/Screenshot 2024-04-17 221553.png" />
         <Card.Body>
-          <Card.Title>Card title</Card.Title>
+          <Card.Title>Horiseon challenge</Card.Title>
           <Card.Text>
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This content is a little bit longer.
+            In this project I took existing code and updated its formatted for better readability and usage for the client. Previously the page was left awkward and now it is no longer cut off or choppy
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">Last updated 3 mins ago</small>
+          <small className="text-muted">Last updated 8 hours ago</small>
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img variant="top" src="holder.js/100px160" />
+        <Card.Img variant="top" src="src/images/Book.jpg" />
         <Card.Body>
-          <Card.Title>Card title</Card.Title>
+          <Card.Title>Book Search API</Card.Title>
           <Card.Text>
-            This card has supporting text below as a natural lead-in to
-            additional content.{' '}
+           Here is the wonderful Book Search API where I take more outdated backend thats using RESTful API and update it to using GraphQL for testing its endpoints and MongoDB database{' '}
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">Last updated 3 mins ago</small>
+          <small className="text-muted">Last updated 7 hours ago</small>
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img variant="top" src="holder.js/100px160" />
+        <Card.Img variant="top" src="src/images/Screenshot 2024-05-04 233455.png" />
         <Card.Body>
-          <Card.Title>Card title</Card.Title>
+          <Card.Title>A peak look into the PillzHere application!</Card.Title>
           <Card.Text>
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This card has even longer content than the
-            first to show that equal height action.
+           This is a peak look into the project 3 PillzHere application that has recently been finished and deployed! This application reminds its clients when its time to take their medication and the dosage because we all need a little reminder here and there
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">Last updated 3 mins ago</small>
+          <small className="text-muted">Last updated 7 hours ago</small>
         </Card.Footer>
       </Card>
     </CardGroup>
