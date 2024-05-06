@@ -1,8 +1,18 @@
-# React + Vite
+# Welcome to Codys Portfolio application!
+This is my portfolio application! This has a small portfolio and includes some recent projects I have done as well as related links for employers!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Here is various links of documentation used for creating this website
+# Netlify
+https://docs.netlify.com/cli/get-started/
 
-Currently, two official plugins are available:
+# Github repository 
+https://github.com/crthorn11/2my-portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Deployed apps link on Netlify
+
+
+# React docs
+https://legacy.reactjs.org/docs/getting-started.html
+
+# Deployed applications screenshot
+![Deployed apps screenshot](../src/images/2my-portfolio.jpg)
