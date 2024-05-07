@@ -5,7 +5,7 @@ function GroupExample() {
   return (
     <CardGroup>
       <Card>
-        <Card.Img variant="top" src="src/images/Screenshot 2024-04-17 221553.png" />
+        <Card.Img variant="top" src="/src/images/image2.png" />
         <Card.Body>
           <Card.Title>Horiseon challenge</Card.Title>
           <Card.Text>
@@ -29,7 +29,7 @@ function GroupExample() {
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img variant="top" src="src/images/Screenshot 2024-05-04 233455.png" />
+        <Card.Img variant="top" src="/src/images/image3.png" />
         <Card.Body>
           <Card.Title>A peak look into the PillzHere application!</Card.Title>
           <Card.Text>
