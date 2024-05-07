@@ -1,12 +1,12 @@
 import Navbar from "./components/Navbar";
-import Aboutme from "./components/Aboutme";
+import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 
 function App() {
    return (
         <div>
             <Navbar />
-            <Aboutme />
+            <About />
             <Portfolio />
         </div>
     );

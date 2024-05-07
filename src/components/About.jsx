@@ -1,7 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-function Aboutme() {
+function About() {
     return (
         <Card>
             <Card.Header>Featured</Card.Header>
@@ -16,4 +16,4 @@ function Aboutme() {
     );
 }
 
-export default Aboutme;
+export default About;
